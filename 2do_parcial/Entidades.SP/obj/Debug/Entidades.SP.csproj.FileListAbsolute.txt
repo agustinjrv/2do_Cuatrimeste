@@ -1,0 +1,6 @@
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\josia_000\Desktop\2do_parcial\Agustin.Rivola.2A\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.dll.config

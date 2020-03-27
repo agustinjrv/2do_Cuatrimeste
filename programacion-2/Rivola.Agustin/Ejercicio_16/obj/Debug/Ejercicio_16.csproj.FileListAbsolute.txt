@@ -1,0 +1,2 @@
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_16\obj\Debug\Ejercicio_16.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_16\obj\Debug\Ejercicio_16.csproj.CoreCompileInputs.cache

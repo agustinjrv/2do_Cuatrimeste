@@ -1,0 +1,20 @@
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.exe.config
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.exe
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.pdb
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csproj.CopyComplete
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.exe
+C:\Users\josia_000\Desktop\Nueva carpeta\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.pdb
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.exe.config
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.exe
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\main_pp_lab_II_2019_2cuat.pdb
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.csproj.CopyComplete
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.exe
+C:\Users\josia_000\Desktop\Agustin\parcial1\Rivola.Agustin.2A\main_pp_lab_II_2019_2cuat\obj\Debug\main_pp_lab_II_2019_2cuat.pdb

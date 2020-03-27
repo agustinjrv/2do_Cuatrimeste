@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\bin\Debug\Clase_25.Entidades.dll
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\bin\Debug\Clase_25.Entidades.pdb
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\obj\Debug\Clase_25.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\obj\Debug\Clase_25.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\obj\Debug\Clase_25.Entidades.dll
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\Clase_25.Entidades\obj\Debug\Clase_25.Entidades.pdb

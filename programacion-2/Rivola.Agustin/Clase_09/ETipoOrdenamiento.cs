@@ -1,0 +1,1 @@
+﻿public enum ETipoOrdenamiento { LegajoAscendente, LegaojoDescendente, ApellidoAscendente, ApellidoDescendente };

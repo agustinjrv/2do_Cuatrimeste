@@ -1,0 +1,14 @@
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.exe.config
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.exe
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.pdb
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.exe
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.pdb
+C:\Users\josia_000\Desktop\Agustin\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.exe.config
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.exe
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\bin\Debug\Ejercicio_09.pdb
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.exe
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Ejercicio_09\obj\Debug\Ejercicio_09.pdb

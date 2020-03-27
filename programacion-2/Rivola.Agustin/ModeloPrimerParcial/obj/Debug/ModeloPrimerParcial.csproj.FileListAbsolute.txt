@@ -1,0 +1,6 @@
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\bin\Debug\ModeloPrimerParcial.dll
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\bin\Debug\ModeloPrimerParcial.pdb
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\obj\Debug\ModeloPrimerParcial.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\obj\Debug\ModeloPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\obj\Debug\ModeloPrimerParcial.dll
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\ModeloPrimerParcial\obj\Debug\ModeloPrimerParcial.pdb

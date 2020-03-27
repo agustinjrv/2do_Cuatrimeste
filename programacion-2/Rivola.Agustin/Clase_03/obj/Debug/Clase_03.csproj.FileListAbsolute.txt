@@ -1,0 +1,6 @@
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\bin\Debug\Clase_03.exe.config
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\bin\Debug\Clase_03.exe
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\bin\Debug\Clase_03.pdb
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\obj\Debug\Clase_03.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\obj\Debug\Clase_03.exe
+C:\Users\josia_000\Desktop\programacion-2\Rivola.Agustin\Clase_03\obj\Debug\Clase_03.pdb

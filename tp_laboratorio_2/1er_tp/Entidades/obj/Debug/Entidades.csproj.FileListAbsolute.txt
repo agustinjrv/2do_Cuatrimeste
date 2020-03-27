@@ -1,0 +1,14 @@
+C:\Users\josia_000\Desktop\1er_tp\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\josia_000\Desktop\1er_tp\Entidades\bin\Debug\Entidades.exe
+C:\Users\josia_000\Desktop\1er_tp\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\1er_tp\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\1er_tp\Entidades\obj\Debug\Entidades.exe
+C:\Users\josia_000\Desktop\1er_tp\Entidades\obj\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\1er_tp\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\bin\Debug\Entidades.exe
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\obj\Debug\Entidades.exe
+C:\Users\Juan\Desktop\Nueva carpeta\tp1-master\tp1-master\1er_tp\Entidades\obj\Debug\Entidades.pdb

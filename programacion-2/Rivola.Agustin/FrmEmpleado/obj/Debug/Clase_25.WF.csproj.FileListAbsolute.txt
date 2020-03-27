@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\FrmEmpleado.exe.config
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\FrmEmpleado.exe
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\FrmEmpleado.pdb
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\Clase_25.Entidades.dll
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\Clase_25.Test.exe
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\Clase_25.Entidades.pdb
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\Clase_25.Test.pdb
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\bin\Debug\Clase_25.Test.exe.config
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\Clase_25.WF.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\FrmEmpleado.Form1.resources
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\FrmEmpleado.Properties.Resources.resources
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\Clase_25.WF.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\Clase_25.WF.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\Clase_25.WF.csproj.CopyComplete
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\FrmEmpleado.exe
+C:\Users\alumno\Desktop\programacion-2\Rivola.Agustin\FrmEmpleado\obj\Debug\FrmEmpleado.pdb

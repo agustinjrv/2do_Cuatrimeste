@@ -1,0 +1,5 @@
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

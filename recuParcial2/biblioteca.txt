@@ -1,0 +1,189 @@
+
+			++
+//EVENTOS
+		 public delegate void Precio(Cartuchera<T> c, EventArgs e);
+		 public event Precio EventoPrecio;
+		
+		
+		 this.c_gomas.EventoPrecio -= new Cartuchera<Goma>.Precio(c_gomas_EventoPrecio);
+		 this.c_gomas.EventoPrecio += new Cartuchera<Goma>.Precio(c_gomas_EventoPrecio);
+		 
+////openFileDialg
+
+  OpenFileDialog open = new OpenFileDialog();
+            open.Title = "Abrir archivo de tickets";
+            open.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //open.Filter = "Archivos log(*.log) | *.log | Todos los archivos(*.*)| *.* ";
+            open.DefaultExt = ".log";
+            open.FileName = "tickets";
+
+            DialogResult rta = open.ShowDialog();
+
+            if (rta == System.Windows.Forms.DialogResult.OK)
+            {
+                StreamReader sr = new StreamReader(open.FileName);
+
+                this.txtVisorTickets.Text = sr.ReadToEnd();
+                sr.Close();
+				
+				
+////xml
+constructor sin parametros
+propiedades
+
+ XmlSerializer xml = new XmlSerializer(typeof(Lapiz));
+                TextWriter tx = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+ "\\Rivola.Agustin.lapiz.xml");
+                xml.Serialize(tx,this);
+                tx.Close();
+                retorno = true;
+				
+				---------
+				
+				 XmlSerializer xml = new XmlSerializer(typeof(Lapiz));
+                TextReader tr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Rivola.Agustin.lapiz.xml");
+                unLapiz = (Lapiz)xml.Deserialize(tr);
+                tr.Close();
+                retorno = true;
+				
+				
+				
+////data table
+  this.dt = new DataTable("utiles");
+            this.dt.Columns.Add("id", typeof(int));
+            this.dt.Columns["id"].AutoIncrement = true;
+            this.dt.Columns["id"].AutoIncrementSeed = 1;
+            this.dt.Columns["id"].AutoIncrementStep = 1;
+
+            this.dataGridView1.MultiSelect = false;
+            this.dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridView1.AllowUserToAddRows = false;
+			
+////Traer elementos
+this.cn = new SqlConnection(Properties.Settings.Default.Conexion);
+            this.da = new SqlDataAdapter("SELECT * FROM utiles",this.cn);
+            this.IsMdiContainer = true;
+           
+            this.da.Fill(this.dt);
+
+            this.dataGridView1.DataSource = this.dt;
+			
+////Insertar elementos
+
+ this.da.InsertCommand = new SqlCommand("INSERT INTO utiles(marca,precio,tipo) values(@marca,@precio,@tipo)",cn);
+            this.da.InsertCommand.Parameters.Add("@marca",SqlDbType.VarChar,50,"marca");
+            this.da.InsertCommand.Parameters.Add("@precio", SqlDbType.Float,1000000000, "precio");
+            this.da.InsertCommand.Parameters.Add("@tipo", SqlDbType.VarChar, 50, "tipo");
+
+            DataRow fLapiz = dt.NewRow();
+            DataColumnCollection columnas = dt.Columns;
+            fLapiz[columnas[1]] = this.lapiz.marca;
+            fLapiz[columnas[2]] = this.lapiz.precio;
+            fLapiz[columnas[3]] = this.lapiz.trazo.ToString();
+            dt.Rows.Add(fLapiz);
+			
+			this.dataGridView1.DataSource = this.dt;
+			
+				
+				
+///borrar
+            //Configurar el deleteCommand del SqlDataAdapter y sus parametros
+            //Borrar el primer registro del dataTable
+            this.da.DeleteCommand = new SqlCommand("delete from utiles where id=@id",cn);
+            this.da.DeleteCommand.Parameters.Add("@id", SqlDbType.Int,2, "id");
+            this.dt.Rows[0].Delete();
+        }
+
+        //Modificar del dataTable el ultimo registro, cambiarlo por: marca:barrilito; precio:72
+//// MODIFICAR
+        {
+            //Configurar el updateCommand del SqlDataAdapter y sus parametros
+            da.UpdateCommand = new SqlCommand("update utiles set marca=@marca,precio=@precio,tipo=@tipo where id=@id", cn);
+            da.UpdateCommand.Parameters.Add("@marca", SqlDbType.VarChar, 50, "marca");
+            da.UpdateCommand.Parameters.Add("@precio", SqlDbType.VarChar, 50, "precio");
+            da.UpdateCommand.Parameters.Add("@tipo", SqlDbType.Int, 2, "tipo");
+            da.UpdateCommand.Parameters.Add("@id", SqlDbType.Int, 2, "id");
+
+            //Modificar el ultimo registro del dataTable
+            DataColumnCollection columna = dt.Columns;
+            DataRow fila = dt.Rows[dt.Rows.Count-1];
+            fila[columna[1]] = "barrilito";
+            fila[columna[2]] = 72;
+
+	ACTUALIZAR CON BASE DE DATOS
+	
+	this.da.Update(dt);
+	
+	GUARDAR ARCHIVO DE TEXTO
+	
+	StreamWriter sw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\tickets.log", true);
+	sw.WriteLine(DateTime.Now);
+	sw.WriteLine("Precio Total :$" + precioTotal);
+
+	sw.Close();
+	retorno = true;
+
+
+//SQL
+
+CARGAR 
+
+ conexion = new SqlConnection(Properties.Settings.Default.conexion);
+                conexion.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conexion;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = String.Format("SELECT * FROM frutas");
+
+                SqlDataReader sqlRead = cmd.ExecuteReader();
+
+                while (sqlRead.Read())
+                {
+                    object id = sqlRead[0];
+                    object nombre = sqlRead[1];
+                    object peso = sqlRead[2];
+                    object precio = sqlRead[3];
+]				}
+                    sb.AppendLine("id: " + id.ToString());
+                    sb.AppendLine("Nombre: " + nombre.ToString());
+                    sb.AppendLine("Peso: " + peso.ToString());
+                    sb.AppendLine("Precio: " + precio.ToString());
+                    sb.AppendLine();
+					
+					
+conexion.Close();
+
+
+
+INSERTAR 
+
+     conexion.Open();
+                cmd = new SqlCommand();
+                cmd.Connection = conexion;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = string.Format("INSERT INTO frutas(nombre, peso, precio)");
+                cmd.CommandText += "VALUES ('" + frm._banana.Nombre + "', " + frm._banana.Peso.ToString(new CultureInfo("en-US")) + ", " + numero.ToString(new CultureInfo("en-US")) + ")";
+                cmd.CommandText += String.Format("INSERT into frutas(nombre, peso, precio) values('{0}',{1},{2})", frm._banana.Nombre,frm._banana.Peso.ToString(new CultureInfo("en-US")), 20.2.ToString(new CultureInfo("en-US")));
+                cmd.CommandText += String.Format("INSERT into frutas(nombre, peso, precio) values('{0}',{1},{2})", frm._durazno.Nombre, frm._durazno.Peso.ToString(new CultureInfo("en-US")), 30.3.ToString(new CultureInfo("en-US")));
+                cmd.ExecuteNonQuery();
+				
+				
+				
+				
+				
+ELIMINAR
+
+bool retorno = false;
+            int filas;
+
+            using (SqlConnection conexion = new SqlConnection(Properties.Settings.Default.conexion))
+            {
+                SqlCommand cmd = new SqlCommand();
+                conexion.Open();
+                cmd.Connection = conexion;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = string.Format("DELETE FROM frutas where id={0} ", id);
+                filas=cmd.ExecuteNonQuery();
+
+                if(filas!=0)
+                retorno = true;
+            }

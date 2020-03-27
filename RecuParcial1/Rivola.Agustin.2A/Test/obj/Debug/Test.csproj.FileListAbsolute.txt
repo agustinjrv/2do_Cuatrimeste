@@ -1,0 +1,10 @@
+D:\VisualStudio\Rivola.Agustin.2A\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Rivola.Agustin.2A\Test\bin\Debug\Test.exe
+D:\VisualStudio\Rivola.Agustin.2A\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Rivola.Agustin.2A\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Rivola.Agustin.2A\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Rivola.Agustin.2A\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\VisualStudio\Rivola.Agustin.2A\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rivola.Agustin.2A\Test\obj\Debug\Test.csproj.CopyComplete
+D:\VisualStudio\Rivola.Agustin.2A\Test\obj\Debug\Test.exe
+D:\VisualStudio\Rivola.Agustin.2A\Test\obj\Debug\Test.pdb

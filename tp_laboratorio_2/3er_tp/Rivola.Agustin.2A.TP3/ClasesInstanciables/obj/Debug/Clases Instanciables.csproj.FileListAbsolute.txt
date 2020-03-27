@@ -1,0 +1,26 @@
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\josia_000\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\alumno\Desktop\tp3\Rivola.Agustin.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

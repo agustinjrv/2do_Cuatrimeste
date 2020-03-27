@@ -1,0 +1,1 @@
+﻿public enum EMateria {Laboratorio_I,Laboratorio_II,Programacio_I, Programacio_II }
